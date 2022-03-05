@@ -1,0 +1,1 @@
+ TRUNCATE urlcontrollers;  INSERT INTO urlcontrollers VALUES('1' , 'Users' , '2018-08-16' , '2018-08-16' ); INSERT INTO urlcontrollers VALUES('2' , 'Jobs' , '2018-08-16' , '2018-08-16' ); INSERT INTO urlcontrollers VALUES('3' , 'Pages' , '2018-08-16' , '2018-08-16' ); INSERT INTO urlcontrollers VALUES('4' , 'Portfolio' , '2018-08-22' , '2018-08-22' );

@@ -1,0 +1,1 @@
+ TRUNCATE navigations;  INSERT INTO navigations VALUES('1' , 'Header' , 'header' , '1' , '2016-12-20' , '2018-08-19' ); INSERT INTO navigations VALUES('2' , 'footer' , 'footer' , '1' , '2016-12-20' , '2017-02-15' );

@@ -1,0 +1,1 @@
+ TRUNCATE communicationsettings;  INSERT INTO communicationsettings VALUES('1' , 'Contact me always' ); INSERT INTO communicationsettings VALUES('2' , 'Contact me for Jobs only' ); INSERT INTO communicationsettings VALUES('3' , 'Contact me for Freelance Opportunities only' ); INSERT INTO communicationsettings VALUES('4' , 'Do not contact me' );

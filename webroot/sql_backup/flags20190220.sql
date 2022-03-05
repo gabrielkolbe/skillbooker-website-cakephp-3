@@ -1,0 +1,1 @@
+ TRUNCATE flags;  INSERT INTO flags VALUES('1' , 'Participant' , '0000-00-00' , '0000-00-00' ); INSERT INTO flags VALUES('2' , 'Registered' , '0000-00-00' , '0000-00-00' ); INSERT INTO flags VALUES('3' , 'Booked' , '0000-00-00' , '0000-00-00' ); INSERT INTO flags VALUES('4' , 'Completed' , '0000-00-00' , '0000-00-00' );

@@ -1,0 +1,1 @@
+ TRUNCATE candidate_ratings;  INSERT INTO candidate_ratings VALUES('1' , 'Do not contact' , '10' ); INSERT INTO candidate_ratings VALUES('2' , 'Not right for us' , '9' ); INSERT INTO candidate_ratings VALUES('3' , 'Worth considering' , '2' ); INSERT INTO candidate_ratings VALUES('4' , 'Very good' , '4' ); INSERT INTO candidate_ratings VALUES('5' , 'Amazing' , '5' );

@@ -1,0 +1,1 @@
+ TRUNCATE companies;  INSERT INTO companies VALUES('1' , 'Skillbooker.com' , 'gabriel' , 'kolbe' , 'gabriel kolbe' , 'SEO' , 'Johan' , '2' , 'gkolbe@gmail.com' , '01993' , '07841414603' , '70 New Yatt Road' , '3831' , '226' , 'Witney' , 'OX28 1PA' , '' , 'Land line' , 'Oxfordshire' , 'United Kingdom' , '2018-08-05' , '2018-08-05' );

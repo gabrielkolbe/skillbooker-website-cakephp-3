@@ -1,0 +1,1 @@
+ TRUNCATE navigations_tabs;  INSERT INTO navigations_tabs VALUES('8' , '1' , '1' ); INSERT INTO navigations_tabs VALUES('9' , '1' , '4' ); INSERT INTO navigations_tabs VALUES('10' , '1' , '5' );

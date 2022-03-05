@@ -1,0 +1,358 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Skillbooker.com</title>
+<link>http://Skillbooker.com</link>
+<description>Freelance Projects, Freelance work, website builders, website design, logo design</description>
+<language>en</language>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/create-a-responsive-website__1545740290</link>
+    <description>test me</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/need-a-content-writer-to-writer-articles-for-a-teaching-website__1546270527</link>
+    <description>We need a content writer to write articles for a teaching website</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/create-a-logo__1546270771</link>
+    <description>I have a estate agent website called . . . . . .rnthe url is . . . . . .rnI would like a logo for this website that has a professional lookrnThe main colours for my website is white, orange (#ffa500) and blue (#0288d1)rnPlease look at these example urls for some ideas how I want my logo to look like:rnurl 1 .....rnurl 2 ....rnurl 3 ....rnrnOnce you have submitted the initial designs to me.rnI will release 25% of the project costrnOnce you have submitted the initial changes to me.rnI will pick one and I will come back with some suggestions and alterations to change it so it is exactly what I want.rnWith this I will release 25% of the project cost.Once you have submitted the designs of stage 2 to me.rnI will make a few more small suggestions and will release another 25% of the project costWhen I am happy with the final designrnI will release stages 4 - the final 25% of the project cost.rnThe freelancer will then send me the final and original design for my logo psd photoshop format.</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/jsf-and-core-java-project__1546772630</link>
+    <description>I am looking for someone who is good in Core java and jsf , web development.</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/content-writer-needed__1546772851</link>
+    <description>We are one of the largest online-only retailers is seeking to add a talented Junior Content Writer to help us with our in-house marketingrnrnYou should be enthusiastic about writing natural, engaging copy, with a good eye for what reads well in high-quality, informative content. You will be highly motivated with an interest in digital and traditional marketing, and will be responsible for helping to create fresh, engaging content for press releases, product information, social media, blog posts and other strategic material to support the wider marketing team s efforts.rnrnYou will work directly with an SEO executive on creating and optimising digital content to ensure relevant, high quality content is available across digital platforms.rnrnKey SkillsrnrnDegree level writing expertise (required)rnrnUnderstanding of SEO and wider digital marketing (preferred)rnrnE-commerce experience (preferred)rnWe will release money on each article we receiveWe will release money on each article we receiveWe will release money on each article we receive</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/create-a-1-page-website__1546792950</link>
+    <description>I need a very small 1 page website designed but very stylish, I will send you some examples</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/cakephp-developer-needed__1546857599</link>
+    <description>We need a cakephp developer that can do some freelance work for us on a ad hoc day to day basis</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/i-would-like-to-hire-a-resume-writer__1546859810</link>
+    <description>My CV is too long and not focused enough, please tale a look at my file and let me have a price if you can assist</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/create-sharepoint-365-list-based-application-for-test-request__1546859957</link>
+    <description>Details of the project will be discussed once communication is established.</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/scrape-content-into-dynamodb-deploy-into-aws-lambda-and-create-api-end-points__1546860057</link>
+    <description>Requirements:rnrn1) store data scraped into either dynamodbrnrn2) listen to notifications to fire news scrapernrn3) being able to run cronjobsrnrn4)being able to unify all time to one timezonernrn5) being able to use a proxy to prevent ip blocking ( will purchase and provide)rnrn6) 3 lambdas: *one for news,rnrn*one for stats,table,fixtures,googlesheetrnrn*another for team fixturesrnrn rnrn rnrn*The required are 8 apis end points,rnrn*6 simple html page scripts from scratch and one to be duplicated with different urlrnrn*one rss feed listener, and one to be duplicated with different urlrnrn*two apis response scraping scriptsrnrnthe project is divided into these steps:rnrn rnrn rnrn* news:rnrn1)scripts: there are 5 rss feeds created, there is one should be created, and another one duplicated with different url. All these rss feeds should run in one lambda every 5 minutes and if there are news urls open the html content and scrape it.rnrn2) 4 simple html pages scraping to run if there were new news posted in the rss feedsrnrn3) db table is already done only missing isLocal coloumnrnrn4) 2 apis, one with pagingrnrn rnrn*Standing:script,db is created ( should run every 10 minutes from 1 pm to 12 am)rnrn1)1 api to creaternrn2) add a column to detect if the team position increased(1) or decreased(-1) ,or remained the same(0) from te previous scrape insertrnrn rnrn*Fixtures: scraping api is done, db is donernrnneed to create one api end pointsrnrnStats html page, googlesheet scrape and team fixtures will be done from scratchrnrncheck pdf file for more detailsrnrn rnrnstart job offer with RD07rnrnpreferably to use python for scraping as most scripts are done with pythonrn</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/java-or-c-expert__1546860157</link>
+    <description>I have a small database of images around 30 -40 what i need is , i need a program which will take the image and as output just show or give the number plate on the imagesrnrnonly bid if you can do it right away or already have codern</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/edit-text-of-a-400-templates__1546860256</link>
+    <description>looking for a desinger to check one by one and edit text of a 400 templatesrnrnwith our app editorrn</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/looking-for-expert-seo-with-a-proven-track-record__1546860775</link>
+    <description>We run an online meal delivery business that is seeking someone to fill an SEO role, we are looking for someone with a proven history of helping rank for competitive keywords.  You will be responsible for growing our acquisitions through Organic searches and you will be measured on improvements to impression/click counts for relevant keywords in our organic traffic.  Please provide as much of the following otherwise please do not expect your application to be considered as I would not have enough information to consider your application seriously:  -What keywords have you worked on and what rankings have you provided for the companies? (Please only include keywords that are competitive and have a minimum of 5k searches per month). The more provided the better your application will be. -Please provide references, testimonials and case studies for the companies above. Once we decide to work together please note I will be contacting them to verify your involvement with them.  Qualities needed to be successful:  -Ability to drive Organic traffic to website/SEO. -Understanding official google guidelines/white/black hat strategies -Online marketing experience/E-commerce experience.  Thank you and I look forward to hearing from you.</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/phpmysql-and-ms-access-project__1546861024</link>
+    <description>Raintree House Holidays are a holiday letting business in North Cornwall, near Padstow, England, UK. We currently run a piece of commercial letting software, called CFP Holidaylets, running on MS Access 97. We have written a bespoke Access 2003 Application, CFP Extra, that uses 5-10 Linked tables from the CFP HolidayLets Application, along with tens of other tables, queries, forms, VBA modules. We are migrating to new letting software in mid Feb. Its an application called Tabs2, [login to view URL] CFP Holidaylets will be end-of-lifed; CFP Extra will continue. Tabs2 has an API that we are trying to use to populate a MySQL Db, the tables of which can then be linked into CFP Extra, the Access 2003 Application. Our web developers have spent some time on this but we don t have it completed and are looking for help. Our web developers have written scripts to extract the data required from the API, and have tried to populate both a MySQL table sat on the web server, and also a MariaDb MySQL Db on a Synology server within our network. They have had more success populating the Db on the web server, but I can t get consistent success from linking these tables into CFP Extra, the Access Db. They have struggled to run the script successfully to populate the MariaDb Db on the Synology server within my network. The script is written in PHP 7 to pull data out of the API and push the data into a database. It is designed to be run from the command line. It contains a readme with details of how to install and run the code, and a sample db construction as an SQL script for MySQL/MariaDB. Details for the database connection are held in a separate settings file, as described in the readme. This package is available in due course. The script may need to be edited over time to improve its running or to change the data it extracts, but the main work is to agree where best to site the MySQL Db (on Synology in network, or on web server) and then achieve a consistent connection to this, via linked tables, from an Access 2003 Db. Migrating CFP Extra, the Access 2003 app, to a more modern version of MS Access is feasible if this would improve performance/reliability (and this is envisaged over time), but ideally this would not be done now. Please get in touch if you think you have the PHP, MySQL, MS Access and network skills to get this running for us. We are hoping to get this running by the last week of January latest so we have 3-4 weeks testing prior to Go Live.</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/i-need-data-entry__1546861969</link>
+    <description>There are scanned PDF files about client emails and relative information. Please copy  paste into excel sheet. I need to finish it within 3 days.</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/building-a-400m-real-estate-project-need-consulting__1546862047</link>
+    <description>Building a 20 story building in Toronto Canada, $400M. 3/8 lands owned. Need consultancy and help in terms of putting together the rest of the lands, planning, dealing with the city, arranging/picking the right construction company, finding investors, etc This project is excellent I m looking for someone great in Toronto to meet with to discuss how to push this project forward.</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/need-to-fix-small-points-in-wordpress-2-website__1546862115</link>
+    <description>need to fix small points in wordpress 2 website CSS, HTML, PHP, Website Design, WordPress</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/wordpress-website-content__1546862259</link>
+    <description>I need someone who can do the content in a wordpress website Menu/Texts/Images/Contact form and Design I give you everything you need and i assist you for that, all instructions files are ready</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/edit-a-brochure__1546862368</link>
+    <description>have a brochure of 4 pages. need to edit the brochure. very simple work. no big designing to be done. Adobe InDesign, Brochure Design, Editing, Graphic Design, Photoshop</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/build-me-a-website__1546862480</link>
+    <description>I need a website for my company. I am a nutritionist and have a company where I offer my services as nutritionist and health coach. I need a professional to build me a website on WordPress. The site should be in Dutch but as I provide all the texts I don t think the webdesigner needs to be Dutch. The site should comprise the basics: home/ who am I/ How I work/ price list/ recipes/ link to Instagram. I can show you pages and styles I like. I also need dat the webdesigner teaches me how to add pages to the site, and how to update the site in the future. Graphic Design, HTML, PHP, Website Design, WordPress</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/make-3d-maya-animation__1546862575</link>
+    <description>Need someone on an hourly basis for Character modeling + rigging + texture 3D Animation, 3D Modelling, 3D Rendering, 3ds Max, Maya</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/malware-cleaning-modx-websites__1546864629</link>
+    <description>cleaning of server for modx for malware Skills: HTML, MySQL, PHP, Web Security, WordPress</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/video-template-editing-expert-required__1546968561</link>
+    <description>I need a Professional Creative Video Presentation Producer and Experts for the following: - To modify my logo stings templates and video openers I will provide. - I will need your expert skill with the video transition effects between each slide - Add sound and sound effects in between transitions. - Merging section footage and add display text overlay explaining each slide. This is a corporate and industry video and I need to have a professional and creative look and feel to it. What I will provide: - I will provide the video templates. - I will provide the footage for each section. - I will provide the text script for each slide. What you will provide: - Your expertise and creativity. - Transitional effects in between each slide. - Music and sound effects for each slide over the duration of the video. - Explainer voiceovers to read over the script for each section or you point me to where I can get the voiceovers done and you add the voice to each section of the video. A full video production. Video Duration: 180 seconds. Video Format: I will need a very compressed file and in a format I can load on a site (specifically WordPress); and also embed on a Slider Revolution. After Effects, Animation, Video Editing, Video Production, Video Services</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/build-me-a-wordpress-blog-site__1546968737</link>
+    <description>I have numerous social media pages (FB, Insta, etc.) and instead of promoting them directly, I want to have a blog site built, that I can then share links to from my social media pages. I will need some minimal graphic design services (I will provide images but will need you to smoothly integrate them into the site to make it look nice) I will need eCommerce functionality to be present, however I will not be selling anything at this time, but I will in the future. The site will need to be secure and SEO optimized. No Flash please - only HTML5 Graphic Design, HTML5, PHP, Website Design, WordPress</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/blog-copywriting__1546968888</link>
+    <description>We are looking for a blog copywriter to write 10 blog articles for our agency. The topics are related to the Digital Marketing and Advertising Industry.</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/i-need-1-cad-drawing-converted-to-a-pdf__1546969032</link>
+    <description>I need 1 CAD drawing converted to a PDF</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/scientific-paper-english-proofreading__1546969175</link>
+    <description>Scientific paper of 2500 words. We are uploading HALF of the current version of the document as sample. Need proofreading and rephrasing to improve readability.</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/i-need-someone-to-setup-my-gsuite-account-for-my-business-with-two-email-addresses__1546969287</link>
+    <description>Currently my accounts are conflicting for some reason and I cannot get this working on my SuperHuman email account but I need it to. I don t know if my domain is registered with Google or not, but I think it somehow is registered personally when it should be a business registration of sorts. Need some to clean this up for me and get it working. Email Developer, Email Handling</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/i-need-a-web-developer-who-is-familiar-with-backend-technology-to-help-me-for-my-restaurant-website__1546969516</link>
+    <description>I have a big restaurant, but it has its website, not work properly, of course, I wanna have my wonderful and perfect site. I am looking for a Developer, especially a Backend Developer. What kind of backend technologies do you have? and how many years? Right Candidates: the United States, Europe Developer Admin for a restaurant company, use PHP, MySQL/MongoDB, Html5/CSS3/JavaScript HTML, HTML5, Javascript, PHP, Website Design</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/video-generated-from-images-with-text-fadein-or-zoom-and-sound__1546969659</link>
+    <description>Video generated from images, with text, fadein or zoom, and sound. Usually something already builded that can work as bulk creation. ffmpeg, memcoder, php Javascript, PHP, Software Architecture, Video Services</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/data-entry-tag-10000-emails-in-three-categories__1546969950</link>
+    <description>I took a project which needs to be completed within 2 weeks. The project is too large to complete on my own so I want to hire 2 individuals to help me complete it before deadline. You should be available to start work right now. New freelancers are welcome to apply. Requirements for the project: - Excellent English Comprehension and a high attention to detail. - Experience with Google Sheets. A Google sheet have 10000 E-mails, you need to select tags for each email from a drop-down menu. Each team member will get 5000 emails to tag. More details will be shared to selected freelancer. Data Entry, Data Processing, Excel, Virtual Assistant, Web Search</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/native-english-writer-needed-for-e-commerce-content__1546970050</link>
+    <description>KickBack is a Norwegian e-commerce marketing company that operates several highly popular coupon and discount sites in Norway, Sweden, Denmark and Poland. We re soon launching a new site in Austria and we need your help! You ll help us keeping the site up to date with the latest offers and coupon codes. You ll be working with an English speaking manager. We prefer to communicate via Slack. *What is the job that needs to be done?* - Update site daily with new coupons, offers and content - Monitor performance of merchants - Write a 100% unique content - Have SEO in mind when writing - i.e make sure certain keywords are used *What are we looking for in a freelancer?* - You ll need to be a native German/Austrian writer/speaker - You ll need to write fluently german and have a good understanding of English - You have basic understanding of SEO and take no shortcuts - You are a quick learner and independent - Quick turnaround - Trustworthy</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/website-dns-registration-ssl-setup__1547033404</link>
+    <description>We have three websites. We need someone to come in and: - Make sure our DNS is set properly - Make sure our SSL is set properly. A bonus for someone who does web design. Graphic Design, HTML, PHP, Website Design</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/design-project__1547034796</link>
+    <description>I need a website designed. I want to create a micro site for real estate project Graphic Design, Website Design</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/arabic-native-graphic-designer-to-change-text__1547035036</link>
+    <description>must be native - must be proficient with photoshop and editing Skills: Arabic, Graphic Design, Illustrator, Photoshop, Photoshop Design</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/experienced-internet-marketer-wanted-read-description-before-bidding__1547035185</link>
+    <description>i want working partner for very big project concept like olx, amazon ,ola, etc . freelancer want to work in revenue sharing model Skills: Advertising, Internet Marketing, Marketing, Sales, SEO</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/need-a-graphic-designer__1547035419</link>
+    <description>I have created a gaming team and I would like a cool logo for a team named Odyssey AU. I will put pictures below that you can get ideas off. Skills: Banner Design, Graphic Design, Illustrator, Logo Design, Photoshop</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/high-street-cartoon__1547035594</link>
+    <description>What I want is a cartoon depiction of a high street. I intend to have a picture of a real life woman possibly holding a baby in one hand and shopping in the other standing in the foreground with the cartoon high street behind her with several vendors caricatures offering her their services, eg fish, bread, hairdressing, motor mechanic, banking etc. Skills: Caricature  Cartoons, Graphic Design, Illustration, Illustrator, Logo Design</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/wordpress-website-for-a-medical-writer-profile__1547048125</link>
+    <description>I need a wordpress website - wordpress installed and configured with a template for a medical writer. Nothing too fancy, basically a page with who I am and also a google map with where I am and a page with referals and past customers. I don t want to dig around in the wordpress cms for ages finding out how to do things so just want to email someone all my info and ask them to load it for me. Once they have it 100%. I will pay them and I want to upload the site to my server via ftp and install the database via phpmyadmin. There is no time contstraint</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/looking-for-social-media-content-creators-images-text-hastags__1547048957</link>
+    <description>We are looking for a social media content creators who can create a set number of social media contents for our clients every week. The contents should include texts, images and hastags. The contents will be used on facebook, instagram, twitter and other social media channels. We will be paying per content basis every week. Please specify your cost per content. Article Writing, Content Writing, Facebook Marketing, Social Media Marketing, Social Networking</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/looking-for-a-coder-with-python-experience-to-develop-a-website-and-ios-app__1547049152</link>
+    <description>Looking for a coder with python experience to develop a website and ios App Django, iPhone, PHP, Python, Software Architecture</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/magento-2-cache-control-headers__1547150117</link>
+    <description>I need someone to configure my Magento 2 Cache- Control headers for certain path pattern eCommerce, HTML, Magento, PHP</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/wordpress-php-coding__1547150222</link>
+    <description>I have an existing Wordpress website running WooCommerce to sell products. Currently, I can create a URL that directly adds a product to the cart and avoid extra clicks. What I would like to do is to add some PHP coding that allows to create a URL that adds a product to the cart, and automatically applies a coupon code to take advantage of an offer. HTML, MySQL, PHP, Website Design, WordPress</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/cakephp-3-ecommerce-cart__1547212518</link>
+    <description>I am looking for a cakephp 3 full working ecommerce cart it has to be build in cakephp 3 to interact with our existing software. I would like a demo of the site and also a sample of the code if someone is submitting an already build site.</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/build-an-online-platform__1547386457</link>
+    <description>I want an online doubt solving platform to get built to help my students get their doubts cleared one on one. I want it to work like Chegg.com platform works. I want a simpler version of that.</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/a-java-script-and-html5-project__1547386550</link>
+    <description>1. Responsive Layout 2. Search Option 3. Javascript calculation (Total Product Cost with GST) 4. FILTER OPTION 5. Product list should get from .js file 6. Product list contain image with popup click 7. Shoping Cart (Product can view after product add,) 8. Final Shopping cart can be share on whatsapp and facebook with screenshot images CSS, HTML5, Java, Javascript, PHP</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/packaging-design-for-scarves-and-shawls__1547386685</link>
+    <description>We require pacakging to be designed for our range of scarves and shawls. The person experienced in scarf packaging design need only apply. please share the designs you have created in past for any scarves or clothing related brand. Brochure Design, Corporate Identity, Covers  Packaging, Fashion Design, Graphic Design</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/the-pampered-pet-mobile-grooming-logo-design__1547386781</link>
+    <description>We emphasize all natural products in a stress free environment The logo should include a dog and a cat</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/fix-whmcpanel-server-disk-is-full__1547386862</link>
+    <description>My server disk is full and I need to free some space to make it work well again.</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/i-need-graphic-designer-to-make-mobile-wireframe__1547387046</link>
+    <description>I will provide all screenshots on request</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/paypal-api-developer-php__1547387163</link>
+    <description>I need working Paypal payment for my site. - desired solution = payment-button accept payments, webhook accept payment notifications and validates them - I have to send ORDER_ID - Here is the button starting payment - https://psihoprofili.com/PPtst-2.php - it alerts message PAYMENT SUCCESSFUL and redirect the user to login page - webhook reads Paypal answer and autorises the order ORDER_ID in mySQL DB - if this scheme is not acceptable for my case - offer me a solution ( submit a web form) details: - All files have to be created from developer (you) in php . - payment = paypal account and cards -- card payment --- attached cards to paypal account AND Guest billings (without attached card) --- to ask for minimum input data ( only cards data without customers data is perfect) - I am selling membership - no shipping address or downloads are needed - types of payments to be accepted: one time, recurring - webhook are for payments made (one time, recurring) and rized disputes</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/social-media-marketing-for-a-perfume-brand-website__1547387240</link>
+    <description>i need all social media and blog marketing within UAE ( United Arab Emirates ) for a perfume brand website. Must be result and business oriented.</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/design-a-logo__1547387401</link>
+    <description>Design a logo for a natural body and hair care start-up. The personality of the brand is confident, modern and minimalist. A design project brief can be sent for designers that have the experience in this or similar industries. The first phase will incorporate the logo design and the later stages will see working on all graphic aspects of the brand.</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/build-me-a-shopify-watches-automated-store-connected-to-aliexpress__1547387506</link>
+    <description>I need the Shopify store automated and conected to aliexpress done as soon as possible. The niche is watches</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/build-website-for-training-center__1547387572</link>
+    <description>We require pacakging to be designed for our range of scarves and shawls. The person experienced in scarf packaging design need only apply. please share the designs you have created in past for any scarves or clothing related brand.  Graphic Design, HTML, PHP, Website Design, WordPress, Corporate Identity, Covers  Packaging, Fashion Design, Graphic Design</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/dedicated-full-stack-developer-needed-codeigniter-expert__1547387703</link>
+    <description> I need dedicated full stack developer that is expert in codeigniter. must know java css mvc html , design work! must show your most complex application you have built! must be able to work 10 hours or more per day. fast work and update me results every 30 minutes/ let me watch you on teamviewer. ok! Codeigniter, Full Stack Development, HTML, Java, MVC</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/need-graphic-designer-expert-with-bootstrap-expertise__1552646062</link>
+    <description>We are looking for an expert graphic designer to convert an existing page into professional landing page with graphic designs, icon usage and material design combination You must have expertise in bootstrap to get this work Only bid if you are creative designer + boostrap expert</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/assign-multiple-zone-to-one-country-in-prestashop17__1552646145</link>
+    <description>I want to assign a few zones to one country in prestashop 1.7. Currently, Prestashop1.7 only allow one country, one zone. In the backend of prestashop, it is only allowed to set one country consist one zone only. However, I want to assign 3 different zones for one country. For example, Country A consist 3 zones (zone 1, zone 2, zone 3). This is for shipping purposes. Because all 3 zones apply different charges for shipping. For example, currently at the backend, I assign zone A to the country. At product check out page, I insert address with zone B postcode, the shipping cost maintain with zone A shipping charge. While zone B is set with different shipping charge than A. I need to assign 3 zones assign for one country so that the shipping charges at check out page is correct. This is a small project, the budget is $10-$15.</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/i-need-web-content-for-my-travel-website-like-about-us__1552646256</link>
+    <description>We at Travel Shoppi, are taking it upon ourselves to bring to you a one-stop solution for quick, convenient and efficient visa applications for the e-visa What s more, we also offer our customers a host of additional services to make your travel planning as smooth as possible. For the first time ever, Travel Shoppi brings to you a unique fully automated platform that allows you to apply for your visa online. All you need to do is fill our online form, scan and upload your documents and we ll take care of the rest.</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/i-need-a-email-writer__1552646338</link>
+    <description>I need a email writer for write a professional impressive email for a Actor and models for a casting call</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/product-photography-editing__1552646536</link>
+    <description>I need a PSD file with all the product of the same category stacked into layer. You can also create a png with transparency for each file but in that case I would ask you to export the shadow in a separate file so I can stack them tougher. Alternatively you can edit every single image in a single PSD file with all the layers used. The healing process can be done directly on the image or on a layer above I don t care. I have to edit about 300 images</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/international-format-resume__1552646639</link>
+    <description>Need to prepare an international standard resume</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/ionic-mobile-application__1552646833</link>
+    <description>Need to develop Ionic mobile application, Where user can purchase grocery online. API will be provide to Ionic developer. Please bid those who are interested and experienced on Ionic development Skills: Ionic Framework, Mobile App Development</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/mlm-e-commerce-level-plan__1552646912</link>
+    <description>purpose of website for agri business. i want established a genuine platform for farmers, just like ola ,etc. Skills: eCommerce, Graphic Design, HTML, PHP, Website Design</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/looking-for-wordpress-developer__1552647002</link>
+    <description>Support integrated set-up of our Web presence. Managing public website, design and built forms, integrate email automation, integrate CRM, be creative Skills: Graphic Design, HTML, Website Design, WordPress</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/website-designer-needed__1552647069</link>
+    <description>I need the expert freelancer for my current project. Details will be shared with winning bidder. Please bid if you have the experience. Skills: Graphic Design, HTML, PHP, Website Design, WordPress</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/re-creation-of-3d-model-assets-and-rigging-for-alphabetland__1552647124</link>
+    <description>We require a strong 3d asset designer to work with our programming team to re-create the 3d assets we previously created for the below project: [login to view URL] EIB Alphabetland - Farm Scene Video 2019. (for group sessions) Comment: This video enables caregivers, teachers or parents to teach a group of learners the animals on the farm. It can also be used to teach learners when a tablet is not available but a TV or computer is. (increases learners vocabulary) EIB - Alphabetland Safari Scene 2019 Comment: This video enables caregivers, teachers or parents to teach a group of learners the animals on a safari/game drive. It can also be used to teach learners when a tablet is not available but a TV or computer is available. (increases learners vocabulary) EIB - Alphabetland Airplane Scene 2019 Comment: This video is a fun transition scene where the learner graduates from learning the farm scene and flies off to Alphabetland to begin learning the letters of the alphabet. (this scene is a fun scene and works as a transition between the learning the animals on the farm and learning the letters in the alphabet) EIB Alphabetland level 1 video 2019 Skills: 3D Animation, 3D Modelling, 3D Rendering, After Effects, Animation</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/edit-javascript-webpages__1552647179</link>
+    <description>we need someone who can edit javascript webpages and remove errors. Skills: CSS, HTML, Java, Javascript, PHP</description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/odoo-azdashboardsaoe-help-with-problem__1552647242</link>
+    <description>We use the standard Module Dasboards from odoo. We use it to Display pie charts from the pos report view/ pivot view. In Pos Pivot we had created a filter for today. Problem now is when we push the pie chart with filter today to the dashboard. It would work for today. (this means the set day) Wenn we look in the dashboard tomorrow(next day) it show data from yesterday. So this means the Dasboard is not refreshing it by his own. So for autorefresh we need a solution. Actuall code we use for filter today is -   filter string= Today  name= today  domain= [( order_date , = , [login to view URL]( %Y-%m-%d )),( order_date , = ,[login to view URL]( %Y-%m-%d ))]  help= POS ordered created today /   separator/  Skills: Java, Odoo, Python, XML See more: joomla shout box spam </description>
+  </item>
+  <item>
+    <title></title>
+    <link>http://www.skillbooker.com/projects/fullview/data-entry__1552647314</link>
+    <description>We will send you 150 JPEG images to your email id. You need to download attached file  start working in MS word Font size will be 12  Font style is TIMES NEW ROMAN You need to make one image file to one word file. Save each word file name as Page 1, Page 2, and Page 3 hellip; hellip;. Correct the spelling mistakes by using AUTO SPELL CHECK option Skills: Data Entry, Data Processing, Excel, PDF, Word</description>
+  </item>
+</channel>
+</rss>

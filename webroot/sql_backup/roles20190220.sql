@@ -1,0 +1,1 @@
+ TRUNCATE roles;  INSERT INTO roles VALUES('1' , 'admin' , '1' , '2016-12-05 00:00:00' , '2017-01-01 18:42:21' ); INSERT INTO roles VALUES('2' , 'candidate' , '1' , '2016-12-06 18:50:51' , '2017-01-13 17:12:32' );

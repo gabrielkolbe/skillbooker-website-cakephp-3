@@ -1,0 +1,1 @@
+ TRUNCATE extrahours;  INSERT INTO extrahours VALUES('2' , '45' , '29' , '23' , 'content-writer-needed__1546772851' , '28' , 'asdf asdfasdf' , '&#8364;' , 'EUR' , '0' , '360' , '0' , '2019-01-06' , '2019-01-06' );

@@ -1,0 +1,1 @@
+ TRUNCATE urlplugins;  INSERT INTO urlplugins VALUES('1' , 'false' , '2018-08-16' , '2018-08-16' );

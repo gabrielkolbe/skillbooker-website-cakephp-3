@@ -1,0 +1,1 @@
+ TRUNCATE user_ratings;  INSERT INTO user_ratings VALUES('1' , 'Not needed' , '1' ); INSERT INTO user_ratings VALUES('2' , 'Use only in emergencies' , '2' ); INSERT INTO user_ratings VALUES('3' , 'Worth considering' , '3' ); INSERT INTO user_ratings VALUES('4' , 'Very good' , '4' ); INSERT INTO user_ratings VALUES('5' , 'Amazing' , '5' );

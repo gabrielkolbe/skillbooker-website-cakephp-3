@@ -1,0 +1,1 @@
+ TRUNCATE notes;  INSERT INTO notes VALUES('2' , '29' , '23' , 'content-writer-needed__1546772851' , 'test me test me test me' , '2019-01-06' , '2019-01-06' ); INSERT INTO notes VALUES('3' , '1' , '20' , 'need-a-content-writer-to-writer-articles-for-a-teaching-website__1546270527' , 'test' , '2019-01-13' , '2019-01-13' );

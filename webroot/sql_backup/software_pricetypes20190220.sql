@@ -1,0 +1,1 @@
+ TRUNCATE software_pricetypes;  INSERT INTO software_pricetypes VALUES('1' , 'One-time' , '2019-01-17' , '2019-01-17' ); INSERT INTO software_pricetypes VALUES('2' , 'Per Month' , '2019-01-17' , '2019-01-17' ); INSERT INTO software_pricetypes VALUES('3' , 'Per Year' , '2019-01-17' , '2019-01-17' );

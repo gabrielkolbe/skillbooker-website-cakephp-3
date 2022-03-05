@@ -1,0 +1,1 @@
+ TRUNCATE software_demooptions;  INSERT INTO software_demooptions VALUES('1' , 'Live' , '2019-01-17' , '2019-01-17' ); INSERT INTO software_demooptions VALUES('2' , 'Self-Guided' , '2019-01-17' , '2019-01-17' ); INSERT INTO software_demooptions VALUES('3' , 'Video' , '2019-01-17' , '2019-01-17' );

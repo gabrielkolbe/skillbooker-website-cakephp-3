@@ -1,0 +1,1 @@
+ TRUNCATE jobapplications;  INSERT INTO jobapplications VALUES('1' , '45' , '35' , '1' , '1' , '2019-01-09' , '2019-01-09' );

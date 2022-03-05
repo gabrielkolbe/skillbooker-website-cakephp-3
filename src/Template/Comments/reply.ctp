@@ -1,0 +1,8 @@
+<?php echo $this->Form->create(null,  ['url' => ['plugin' => null,'controller' => 'comments','action' => 'replyaction']]); ?>
+<?= $this->Form->button(__('Submit'), ['class'=>'btn btn-primary float-right']) ?>
+<input type="hidden" id="comment_id" name="comment_id" value="<?=$comment_id?>">
+<H1>Leave A Comment</H1>
+               
+<?php echo $this->Form->textarea("comment",['class'=>'form-control ckeditor', "placeholder"=>"Reply to comment"]);  ?>
+
+<?php echo $this->Form->end();?>

@@ -1,0 +1,1 @@
+ TRUNCATE user_credit;  INSERT INTO user_credit VALUES('11' , '1' , '2' , '0' , 'Accredited' , '2019-01-05' , '2019-01-05' , '2019-01-15' ); INSERT INTO user_credit VALUES('12' , '28' , '0' , '0' , 'General' , '2019-01-30' , '2019-01-30' , '2019-01-30' );

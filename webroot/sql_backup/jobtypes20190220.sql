@@ -1,0 +1,1 @@
+ TRUNCATE jobtypes;  INSERT INTO jobtypes VALUES('1' , 'All Jobs' ); INSERT INTO jobtypes VALUES('2' , 'Contract' ); INSERT INTO jobtypes VALUES('3' , 'Permanent' );

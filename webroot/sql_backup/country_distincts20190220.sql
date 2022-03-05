@@ -1,0 +1,1 @@
+ TRUNCATE country_distincts;  INSERT INTO country_distincts VALUES('20' , '226' , 'United Kingdom' , '1' );

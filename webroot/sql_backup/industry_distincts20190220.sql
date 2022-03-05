@@ -1,0 +1,1 @@
+ TRUNCATE industry_distincts;  INSERT INTO industry_distincts VALUES('3' , '20' , 'IT' , '1' );

@@ -1,0 +1,1 @@
+ TRUNCATE datedescs;  INSERT INTO datedescs VALUES('1' , 'ASAP' ); INSERT INTO datedescs VALUES('2' , 'In The Next Week' ); INSERT INTO datedescs VALUES('3' , 'In Two Weeks' ); INSERT INTO datedescs VALUES('4' , 'In the Next Month' );

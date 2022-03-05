@@ -1,0 +1,1 @@
+ TRUNCATE questionskill_distincts;  INSERT INTO questionskill_distincts VALUES('1' , '29' , 'PHP' , 'php' , '20' ); INSERT INTO questionskill_distincts VALUES('2' , '45' , 'CakePHP' , 'cakephp' , '20' ); INSERT INTO questionskill_distincts VALUES('3' , '180' , 'HP' , 'hp' , '20' ); INSERT INTO questionskill_distincts VALUES('4' , '279' , 'IE' , 'IE' , '20' );

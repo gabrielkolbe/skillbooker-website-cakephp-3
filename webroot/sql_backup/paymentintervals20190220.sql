@@ -1,0 +1,1 @@
+ TRUNCATE paymentintervals;  INSERT INTO paymentintervals VALUES('1' , 'Hourly' ); INSERT INTO paymentintervals VALUES('2' , 'Daily' ); INSERT INTO paymentintervals VALUES('3' , 'Weekly' ); INSERT INTO paymentintervals VALUES('4' , 'Monthly' ); INSERT INTO paymentintervals VALUES('5' , 'Annually' );
